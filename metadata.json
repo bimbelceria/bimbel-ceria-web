@@ -1,0 +1,8 @@
+{
+  "name": "Bimbel Ceria - Belajar Ceria, Prestasi Nyata!",
+  "description": "Website resmi Bimbel Ceria - Lembaga bimbingan belajar terpercaya untuk siswa SD, SMP, dan SMA dengan metode belajar ceria dan prestasi nyata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
